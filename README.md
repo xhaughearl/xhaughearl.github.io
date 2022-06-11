@@ -26,3 +26,8 @@ $$
 $$
     a \\ b
 $$
+
+![out](https://user-images.githubusercontent.com/107236880/173185629-2d588bf1-be12-4cad-921f-7259ce92e91d.gif)
+
+![out](https://user-images.githubusercontent.com/107236880/173185768-5533708a-bc32-42c1-8d3f-b7265eb3dfc1.gif)
+
